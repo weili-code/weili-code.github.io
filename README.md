@@ -8,4 +8,3 @@ visit my pages:
 
 [Github](https://github.com/weili-code)
 
-[Expression](https://wli169.expressions.syr.edu)
